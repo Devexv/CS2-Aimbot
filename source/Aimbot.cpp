@@ -5,6 +5,9 @@
 #include "Utilts.c"
 #include "Utilts.h"
 #include "dllmain.c'
+#include "Scanner.h"
+#include "Scanner.cpp"
+#include "Dllmain.cpp"
 
 #include <thread>
 
